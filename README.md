@@ -123,7 +123,7 @@ Examples of how to run SQL inside Python:
 ```
 import sqlite3
 conn = sqlite3.connect('FinalDB.db.db')
-query = "select * from sqlite_master where type = 'table' " LIMIT 10;"
+query = "select * from sqlite_master where type = 'table' " LIMIT 10";
 pd.read_sql(query, conn)
 ```
 ### With SQL Magic
