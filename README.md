@@ -151,4 +151,4 @@ Data Analyst
 
 📧 Email:   zakkyzeeshan1931@gmail.com  
 
-🔗 [LinkedIn](www.linkedin.com/in/zaki-ahmed85)
+🔗 [LinkedIn](https://www.linkedin.com/in/zaki-ahmed85)
